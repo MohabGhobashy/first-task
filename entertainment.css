@@ -1,0 +1,24 @@
+body{
+    background-color:antiquewhite;
+}
+
+
+.middle img{
+    display: flex;
+    margin: auto;
+}
+.middle a {
+    display: block;
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    color: blue;
+}
+footer img{
+    display: flex;
+    margin: auto;
+}
+footer p{
+    text-align: center;
+}
